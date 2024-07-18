@@ -1,7 +1,7 @@
 # fraud-detection-prevention-sys
 Architecture Document: Fraud Detection and Prevention System
 
-**Project Overvie**
+**Project Overview**
 The Fraud Detection and Prevention System aims to enhance the security of financial transactions by implementing advanced algorithms to detect and mitigate fraudulent activities in real-time. This document outlines the architectural design and components of the system.
 
 **Objectives**
